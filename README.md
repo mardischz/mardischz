@@ -8,7 +8,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mardischz&show_icons=true&theme=tokyonight&hide_border=true)
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌟 Lenguajes más usados
+### Lenguajes más usados
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardischz&layout=compact&theme=tokyonight&hide_border=true)
